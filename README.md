@@ -4,11 +4,11 @@
 
 #### This Brick Breaker Game can:
 
-- Calculates and Updates total score
-- Updates display using requestAnimationFrame(update)
-- moves paddles left and right on arrow key presses
-- detects collion between ball and bricks and walls
-- has a rules button with game information in a slider
+- Calculate and Update total score
+- Update display using requestAnimationFrame(update)
+- Move paddles left and right on arrow key presses
+- Detect collision between ball and bricks and walls
+- Display rules button with game information in a slider
 
 ## Brick Breaker
 
